@@ -5,16 +5,18 @@
 #map-container { height: 180px; }
 
 
+h1 {
+  text-align: center;
+}
 
+ dt {
 
+   padding: 5px;
+   text-decoration:underline;
+}
 
-
-
-
-
-
-
-
-
-
-
+dd {
+	color: #2DD8FA ;
+  text-indent: 20px;
+  padding: 5px;
+}
